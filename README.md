@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String
+|  |
+| ------- |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
