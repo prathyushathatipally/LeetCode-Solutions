@@ -16,7 +16,6 @@ class Solution(object):
         for i in l:
             if i not in check:
                 if i.lower() in l1:
-                    l1.remove(i.lower())
                     c+=1
                 check.append(i)
         return c
