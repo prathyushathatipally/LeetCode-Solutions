@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2465-number-of-distinct-averages](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2678-number-of-senior-citizens](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2678-number-of-senior-citizens](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
