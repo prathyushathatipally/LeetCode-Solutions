@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Enumeration
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Sorting
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Segment Tree
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Linked List
 |  |
 | ------- |
