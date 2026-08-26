@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3978-unique-middle-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3978-unique-middle-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Linked List
 |  |
 | ------- |
