@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Segment Tree
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3978-unique-middle-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Linked List
