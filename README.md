@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3813-vowel-consonant-score](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3813-vowel-consonant-score](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Bracket Sequences
 |  |
