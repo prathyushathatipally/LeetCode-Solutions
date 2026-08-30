@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
