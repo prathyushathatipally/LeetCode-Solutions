@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3813-vowel-consonant-score](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
