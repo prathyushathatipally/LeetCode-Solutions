@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3813-vowel-consonant-score](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
+| [3884-first-matching-character-from-both-ends](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3884-first-matching-character-from-both-ends](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
