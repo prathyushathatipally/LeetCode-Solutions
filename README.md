@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3978-unique-middle-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
