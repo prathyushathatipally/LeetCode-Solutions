@@ -283,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
