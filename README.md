@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Quicksort
 |  |
 | ------- |
