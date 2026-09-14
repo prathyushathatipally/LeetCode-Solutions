@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2396-strictly-palindromic-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
