@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2396-strictly-palindromic-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
