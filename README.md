@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0260-single-number-iii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
