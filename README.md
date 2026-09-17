@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Segment Tree
 |  |
