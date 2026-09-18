@@ -5,14 +5,8 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        l=[]
-        total=0
-        num=int("".join(map(str,num)))
-        total=num+k
-        k=list(map(int,str(total)))
-        return k
-    
-
-
-
-       
+        m=int("".join(map(str,num)))
+        s=m+k
+        n=list(map(int,str(s)))
+        return n
+        
