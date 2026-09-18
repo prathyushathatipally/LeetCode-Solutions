@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
