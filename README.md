@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
