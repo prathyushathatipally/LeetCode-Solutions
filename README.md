@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
