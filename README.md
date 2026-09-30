@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -405,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
