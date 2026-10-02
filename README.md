@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
