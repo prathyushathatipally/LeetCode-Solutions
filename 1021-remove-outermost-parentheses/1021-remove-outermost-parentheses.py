@@ -15,4 +15,5 @@ class Solution(object):
                 count-=1
                 if count>0:
                     result+=i
-        return result        
+        return result 
+        
