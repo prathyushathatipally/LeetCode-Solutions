@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2465-number-of-distinct-averages](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
