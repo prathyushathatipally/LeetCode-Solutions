@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1796-second-largest-digit-in-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
