@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -492,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
