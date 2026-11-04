@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3978-unique-middle-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3842-toggle-light-bulbs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3813-vowel-consonant-score](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
+| [3842-toggle-light-bulbs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Bracket Sequences
 |  |
 | ------- |
