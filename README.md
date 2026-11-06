@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Quicksort
