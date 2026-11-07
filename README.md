@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
