@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
