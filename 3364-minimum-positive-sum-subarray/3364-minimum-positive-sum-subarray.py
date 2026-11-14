@@ -23,5 +23,3 @@ class Solution(object):
             return -1
         return min(m)
         
-                
-            
