@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1486-xor-operation-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2506-count-pairs-of-similar-strings](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Quickselect
 |  |
@@ -525,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
