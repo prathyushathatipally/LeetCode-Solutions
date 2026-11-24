@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prathyushathatipally/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
